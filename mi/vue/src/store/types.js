@@ -1,0 +1,9 @@
+export const HOME = 'HOME';
+export const FOLLOW = 'FOLLOW';
+export const COLUMN = 'COLUMN';
+export const BANNER = 'BANNER';
+export const DETAIL = 'DETAIL';
+export const USER = 'USER';
+export const UPDATE_NAV = 'UPDATE_NAV';
+export const UPDATE_FOOT = 'UPDATE_FOOT';
+export const UPDATE_LOADING = 'UPDATE_LOADING';
